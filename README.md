@@ -6,7 +6,7 @@ Basics of JS  used in creation of simple, similar to "checkers" game.
 You need a web browser to run this game. No additional installations are required.
 Running the Game
     Clone this repository to your local machine.
-    Open index.html in your web browser.
+    Open index.html in your web browser. <br>
 How to Play
     Click on a sheep to see its possible moves highlighted in green.
     Click on a highlighted square to move the sheep.
