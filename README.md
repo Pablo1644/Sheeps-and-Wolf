@@ -1,6 +1,6 @@
 # Sheeps-and-Wolf
 Basic of JS  used in creation of simple, similar to "checkers" game.
-<a href="https://mathcircles.org/activity/wolves-and-sheep/">Visit W3Schools</a> </br>
+<a href="https://mathcircles.org/activity/wolves-and-sheep/">Rules of game </a> </br>
 ## View of game
 ![View of game](https://github.com/Pablo1644/Sheeps-and-Wolf/blob/main/wilkiOwce.png)
 ### Posibility of move 
