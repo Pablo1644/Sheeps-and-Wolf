@@ -4,5 +4,5 @@ Basic of JS  used in creation of simple, similar to "checkers" game.
 ![View of game](https://github.com/Pablo1644/Sheeps-and-Wolf/blob/main/wilkiOwce.png)
 
 ### Posibility of move
-Sheep can move <b>only</b> upwards.
+Sheep can move <b>only</b> upwards. </br>
 ![View of game](https://github.com/Pablo1644/Sheeps-and-Wolf/blob/main/moveOfSheep.png)
