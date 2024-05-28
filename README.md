@@ -1,5 +1,5 @@
 # Sheeps-and-Wolf
-Basic of JS  used in creation of simple, similar to "checkers" game.
+Basics of JS  used in creation of simple, similar to "checkers" game.
 <a href="https://mathcircles.org/activity/wolves-and-sheep/">Rules of game </a> </br>
 ## View of game
 ![View of game](https://github.com/Pablo1644/Sheeps-and-Wolf/blob/main/wilkiOwce.png)
@@ -10,4 +10,4 @@ Basic of JS  used in creation of simple, similar to "checkers" game.
 Sheep can move <b>only</b> upwards. Wolf can go in all directions.
 
 ## END OF GAME
-After wolf wins/sheep win there is a message who won. You are able to play next game.
+After wolf wins/sheep win, there is a message who won. You are able to play next game.
