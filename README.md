@@ -2,12 +2,12 @@
 Basics of JS  used in creation of simple, similar to "checkers" game.
 <a href="https://mathcircles.org/activity/wolves-and-sheep/">Rules of game </a> </br>
 ## HOW TO PLAY?
-1. Prerequisites
+<b>1. Prerequisites </b> </br>
 You need a web browser to run this game. No additional installations are required.
-Running the Game
+<b>Running the Game</b></br>
     Clone this repository to your local machine.
     Open index.html in your web browser. <br>
-How to Play
+<b>How to Play</b></br>
     Click on a sheep to see its possible moves highlighted in green.
     Click on a highlighted square to move the sheep.
     After moving a sheep, the wolf's possible moves will be highlighted in green.
