@@ -4,6 +4,7 @@ Basics of JS  used in creation of simple, similar to "checkers" game.
 ## HOW TO PLAY?
 <b>1. Prerequisites </b> </br>
 You need a web browser to run this game. No additional installations are required. </br>
+<b> Main file is index.html.</b> </br>
 <b>1.1 Running the Game</b></br>
     Clone this repository to your local machine.
     Open index.html in your web browser. <br>
