@@ -28,7 +28,6 @@ function createBoard() {
     return board;
 }
 
-// refactor it later
 function defaultSheeps() {
  board = createBoard();
  positionOfSheeps=[];
@@ -68,7 +67,7 @@ function moveSheep() {
 }
 
 
-// refactor it later
+
 function defaultWolf() {
     board = moveSheep();
     moveSheep(); // Call moveSheep to draw the sheep on the canvas
